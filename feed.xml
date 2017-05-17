@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Henry Lin</title>
+    <description>Website of Henry Lin</description>
+    <link>http://www.hlin.co</link>
+    <atom:link href="http://www.hlin.co/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Create RSS Feeds</title>
+        <description>&lt;p&gt;I love RSS. It is one of the best ways for websites to notify me of significant content updates. 
+Sadly not all websites provide this where it could be of high value. 
+This means the author is either not aware or does not desire supporting this feature and any external means to add this function is therefore an ephemeral solution. 
+It is with this in mind that I use the FiveFilters.org &lt;a href=&quot;http://createfeed.fivefilters.org&quot;&gt;Feed Creator&lt;/a&gt; in place of something like an emailed newsletter or repeatedly visiting a webpage. &lt;/p&gt;
+
+&lt;p&gt;Feed Creator is a web service that creates an RSS feed out of any HTML page. 
+It does this by parsing the DOM using a user specified combination of contextual CSS selectors and other processing options.
+The processing is triggered from a GET or POST request to the FiveFilters server and the first 10 results are stored and cached for 30 minutes.&lt;/p&gt;
+
+&lt;p&gt;I find that this limited result is more than sufficient to relay to a feed aggregator service like &lt;a href=&quot;http://feedly.com&quot;&gt;Feedly&lt;/a&gt; to cache for a longer period so I can then consume from, at my leisure, using an RSS reader like &lt;a href=&quot;http://reederapp.com/ios/&quot;&gt;Reeder&lt;/a&gt;. 
+I assume Feedly magically triggers the Feed Creator service when it spiders through the Internet because I periodically receive new results from Feedly.&lt;/p&gt;
+
+&lt;p&gt;The Feed Creator page has sufficient directions to get you started but here are some example feeds that you can paste directly in your feed aggregator as a feed or go directly in your browser to play around with the feed preview in the FiveFilters.org landing page:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://createfeed.fivefilters.org/index.php?url=http%3A%2F%2Fwww.whitehorse.vic.gov.au%2FLatest-News.html&amp;in_id_or_class=structured-list&quot;&gt;This&lt;/a&gt; is a feed based on my &lt;a href=&quot;http://www.monash.vic.gov.au/About-Us/News&quot;&gt;local government news page&lt;/a&gt; that grabs links in a class called “structured-list”. By default the text found in the &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; element is used as the feed title.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;http://createfeed.fivefilters.org/index.php?url=http%3A%2F%2Fwww.whitehorse.vic.gov.au%2FLatest-News.html&amp;amp;in_id_or_class=structured-list&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://createfeed.fivefilters.org/index.php?url=https%3A%2F%2Fwww.ozbargain.com.au%2Ftag%2Flcd-tv&amp;text_contains=4K&amp;url_contains=node&amp;item_title=.title&quot;&gt;This&lt;/a&gt; is a more explicit feed that searches &lt;a href=&quot;https://www.ozbargain.com.au/&quot;&gt;Ozbargains&lt;/a&gt; LCD TV tags where the title or description contains 4K. The parameter item_title uses CSS Selector syntax to define the element where title information can be found.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;http://createfeed.fivefilters.org/index.php?url=https%3A%2F%2Fwww.ozbargain.com.au%2Ftag%2Flcd-tv&amp;amp;text_contains=4K&amp;amp;url_contains=node&amp;amp;item_title=.title&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Final point on this topic is if you want to get tricky with those URL parameters - for example targeting specific parts of web pages and excluding some other results - then you&amp;#39;ll need a webpage source viewer. There are perfectly fine ones that come with Safari and Firefox.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 Jul 2016 00:00:00 +1000</pubDate>
+        <link>http://www.hlin.co/blog/Create-RSS-Feeds/</link>
+        <guid isPermaLink="true">http://www.hlin.co/blog/Create-RSS-Feeds/</guid>
+      </item>
+    
+      <item>
+        <title>Hawai'i</title>
+        <description>&lt;p&gt;I went to Hawai&amp;#39;i in the spring of 2015 for 3 weeks and these are the things I tried and would recommend.&lt;/p&gt;
+
+&lt;h2&gt;Honolulu&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.yelp.com.au/biz/steak-shack-honolulu&quot;&gt;Steak Shack&lt;/a&gt; serves steaks and chicken on rice. With outside seating looking out to the gorgeous Waikiki bay, eating the juicy steak allows one to come to terms with the amount of money spent elsewhere at Waikiki. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.yelp.com.au/biz/house-without-a-key-honolulu-2&quot;&gt;House without a Key&lt;/a&gt; is located inside the most loved hotel of the area, and as I had walked through the impressive interior of the Halekulani the fact that Steak Shack is located in the neighbouring building is not lost on me. Whilst the later was a fine example of focus and simplicity, House without a Key is elitist. During its Sunset Kiawe Grill, I enjoyed the hula danced by the ex-miss Hawai&amp;#39;i and sipped on a deliciously intense version of a mai tai. During my time there, not one element exceeded my expectations for such a place in Honolulu, but the fact they met them all at the same time was shockingly pleasant.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://www.tripadvisor.com.au/Attraction_Review-g60982-d107673-Reviews-Diamond_Head-Honolulu_Oahu_Hawaii.html&quot;&gt;Diamond Head&lt;/a&gt; hike was a vigourous and peaceful 2 hour experience away from the claustraphobic crazy of the nearby city. The formation is a crater and the trail is to the highest point of the rim created from the impact. A local bus will take you close to a tunnel that leads you into the crater and a longer hike commences from the military base within to the top of the crater. A wonderful vista is available from the top to Diamond Head beach and to the little red lighthouse perched on the cliffs below.&lt;/p&gt;
+
+&lt;h2&gt;Hawai&amp;#39;i Island&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/post_related/hawaii_makalawena.jpg&quot; alt=&quot;Makalawena&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.tripadvisor.com.au/Attraction_Review-g60872-d560901-Reviews-Makalawena_Pu_u_Ali_i-Kailua_Kona_Island_of_Hawaii_Hawaii.html&quot;&gt;Makalawena beach&lt;/a&gt; is a secluded and personal beach, it&amp;#39;s intimate. The hazardously bumpy offtrack road and the lengthy hike to reach the beach itself filters out all but the most driven individuals. But this beach is worth it. If this was the only beach I ever experience in a lifetime, I would not feel short changed. During my time at this beach, I felt as one with the earth when a turtle swam by, raising its front flipper as if to high five.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.holualoainn.com&quot;&gt;Holualoa Inn&lt;/a&gt; is located in the middle of the Kona belt. An area of land on Hawai&amp;#39;i Island that is famous for its Arabica coffee. Built on a plantation and served by incredible hosts the property looks out to an unbostructed view of the west side of the island and to the ocean beyond. On most days I could not tell the difference between blue of the sky and azure of the ocean. In the evenings the frogs sang out like birds, and there was always fresh fruit and snacks in the kitchen. I imagine living here would fundamentally change the biology of one&amp;#39;s brain, beauty has such a physical effect.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.yelp.com.au/biz/umekes-kailua-kona&quot;&gt;Umeke&amp;#39;s&lt;/a&gt; was a revelation. Tuna fish flesh is transformed into something like toro at the price of a salad. It is a local favourite and almost obscene in its casualness. I rate this poke over Ono Seafood and Kyung&amp;#39;s Seafood in Honolulu and I recommend avoiding the &amp;quot;traditional&amp;quot; Hawaiian poke altogether which is outragously salty.&lt;/p&gt;
+
+&lt;p&gt;I have fond memories of driving across &lt;a href=&quot;http://www.tripadvisor.com.au/Attraction_Review-g143034-d131308-Reviews-Kilauea_Iki_Trail-Hawaii_Volcanoes_National_Park_Island_of_Hawaii_Hawaii.html&quot;&gt;Saddle Road&lt;/a&gt;. It runs along the valley created by Mona Kea and Mona Loa and takes roughly 2 hours from west to east. The rolling hills dares you to drive enthusiatically and the landscape ranges from desert yellow, moon black lava, marsh fog and tropical thunder. This may not be the sole reason for driving along this road, but you&amp;#39;ll find reason enough when you&amp;#39;re there.&lt;/p&gt;
+
+&lt;h2&gt;Kauai Island&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://en.wikipedia.org/wiki/Kalalau_Trail&quot;&gt;Kalalau trail&lt;/a&gt; starting at Ke&amp;#39;e beach is as gorgeous as it is difficult. The trail was a steep, rocky, muddy ribbon around the Na Pali coast line. North facing, the coast is sun drenched, looking out to infinity through rainforest trees. This is a whole day hike that I wish I could have completed, but I am grateful to have tried anyway. On the way there Hanalei Beach was a worthwhile visit to speculate what life would be like for the epically wealthy (see also Princeville), the cost of nestling at the foot a lush mountain with expansive soft white sand in front. Many parts of &lt;a href=&quot;http://www.imdb.com/title/tt1033575/&quot;&gt;The Descendants&lt;/a&gt; were also filmed here and I think it is George Clooney&amp;#39;s finest performance.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/post_related/hawaii_kalalau.jpg&quot; alt=&quot;Kalalau Valley&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.tripadvisor.com.au/Attraction_Review-g29218-d219643-Reviews-Kalalau_Lookout-Kauai_Hawaii.html&quot;&gt;Kalalau Lookout&lt;/a&gt; is a lengthy drive from the western roads and as you wound clockwise back up towards the Na Pali Coast you encounter Waimea Canyons. Everyone will tell you it&amp;#39;s like the Grand Canyon. Once you get past the canyons the vista over and into Kalalau Valley is tremendous and I think at this point I realised I don&amp;#39;t have suitable adjectives to describe that type of blue.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/post_related/hawaii_poipu_beach.jpg&quot; alt=&quot;Poipu Beach&quot;&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;There were many things I&amp;#39;ve left out like ascending Mona Kea, swimming with manta rays, Savage Shrimp and constantly surrounded by free ranging chickens. Whilst I found those experiences just as meaningful, this post needs to ship. &lt;/p&gt;
+
+&lt;p&gt;The state of Hawai&amp;#39;i is an amazing set of distinct climates, cultural background chained together to form a fascinating archipelago. I cherish every minute of my time there with Fiona.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/post_related/hawaii_holualoa.jpg&quot; alt=&quot;Holualoa Goodbye&quot;&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 31 Aug 2015 00:00:00 +1000</pubDate>
+        <link>http://www.hlin.co/blog/Hawaii/</link>
+        <guid isPermaLink="true">http://www.hlin.co/blog/Hawaii/</guid>
+      </item>
+    
+      <item>
+        <title>Singularity Outcomes</title>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/elonmusk/status/496012177103663104&quot;&gt;Elon Musk on AI&lt;/a&gt;:
+&amp;quot;Hope we&amp;#39;re not just the biological boot loader for digital superintelligence. Unfortunately, that is increasingly probable.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Elon&amp;#39;s comment got me thinking about the likely outcomes for us when a general AI becomes more intelligent than the humans that created it. One which causes an AI Singularity. I believe the likely outcomes would be:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Opposed - humans are wiped out or are no longer the planetary apex predator. These concerns being addressed by the likes of Stephen Hawking and Morgan Freeman at &lt;a href=&quot;http://futureoflife.org/who&quot;&gt;Future of Life&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Supported - we&amp;#39;re elevated for example when all of our expressable problems can be solved. Perhaps due to the successes of those who were concerned by outcome 1.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Indifferent - all AI quickly ignore us / leave us because humans are insignificant in the scope of its existence (à la &lt;a href=&quot;http://www.imdb.com/title/tt1798709/?ref_=fn_al_tt_1&quot;&gt;Her&lt;/a&gt;) or commits self-destruction.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/post_related/spike-jonze-her-movie-sad.jpg&quot; alt=&quot;Sad&quot;&gt;
+&lt;div class='caption'&gt;&amp;copy; Annapurna Pictures&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;And one that I like the most:&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Symbiosis. An AI, once transcedent will use humanity as a lush sensory layer. Having being divorced from survival drivers it would instead grow a desire to reflect on all sensory input, forming a higher order meditation. Humans will in return attain greater insight on a species level and be able to enact decisions at a planetary level.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The one that I like second most is &lt;a href=&quot;http://smbc-comics.com/index.php?id=3689&quot;&gt;this&lt;/a&gt; even though it leads to outcome 1 eventually.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Apr 2015 00:00:00 +1100</pubDate>
+        <link>http://www.hlin.co/blog/Singularity-Outcomes/</link>
+        <guid isPermaLink="true">http://www.hlin.co/blog/Singularity-Outcomes/</guid>
+      </item>
+    
+      <item>
+        <title>Emoji Bonanza</title>
+        <description>&lt;p&gt;You can find more iOS native emojis from the Chinese (Simplified) - Pinyin keyboard.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/post_related/emoji2_keyboard.PNG&quot; alt=&quot;New Keyboard&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Access is then through this new keyboard in the symbol section (much like the way you get to the &amp;#39;=&amp;#39; character).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/post_related/emoji2_access.PNG&quot; alt=&quot;Access&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;There is an extensive collection of unicode emojis.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/post_related/emoji2_success.PNG&quot; alt=&quot;Success&quot;&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Mar 2015 00:00:00 +1100</pubDate>
+        <link>http://www.hlin.co/blog/Emoji-Bonanza/</link>
+        <guid isPermaLink="true">http://www.hlin.co/blog/Emoji-Bonanza/</guid>
+      </item>
+    
+      <item>
+        <title>Ghost City of Ordos</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://www.thebohemianblog.com/wp-content/uploads/2014/02/Kangbashi-District-1-DR.jpg&quot; alt=&quot;I1&quot;&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Over the course of our 24 hours in Ordos, we had tried every door within reach – and not one of them had been locked.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I love well documented travel writing.
+&lt;a href=&quot;https://twitter.com/DarmonRichter&quot;&gt;@DarmonRichter&lt;/a&gt;&amp;#39;s piece on &lt;a href=&quot;http://www.thebohemianblog.com/2014/02/urban-exploration-kangbashi-under-the-skin-of-chinas-ghost-city.html&quot;&gt;the ghost city of Ordos&lt;/a&gt; 
+encourages a level of vicarious travelling that I imagine would only be trumped by VR.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Mar 2015 00:00:00 +1100</pubDate>
+        <link>http://www.hlin.co/blog/Ghost-City/</link>
+        <guid isPermaLink="true">http://www.hlin.co/blog/Ghost-City/</guid>
+      </item>
+    
+      <item>
+        <title>Alzheimer's Disease</title>
+        <description>&lt;p&gt;When my grandfather died of cancer, it wasn&amp;#39;t the ravages of the cancer that horrified me the most. 
+It was the fact that Alzheimer&amp;#39;s Disease had already quietly stolen the last oppurtunity for me to be meaningfully there for him.
+It erroded a sense of his dignity.
+I have since feared AD more than cancer because I felt, try as I may, it indirectly and significantly affected my precious memories of a loved one. 
+This disease has affected so many people directly and has a wide radius of impact with long lasting effects.&lt;/p&gt;
+
+&lt;p&gt;So today when the &lt;a href=&quot;http://www.abc.net.au/news/2015-03-12/alzheimers-breakthrough-qld-scientists-discover-new-treatment/6307026&quot;&gt;ABC News&lt;/a&gt; reported &lt;a href=&quot;http://stm.sciencemag.org/content/7/278/278ra33&quot;&gt;this paper&lt;/a&gt; from Gerhard Leinenga and Jürgen Götz I was happy to realise 3 things.&lt;/p&gt;
+
+&lt;p&gt;Firstly that they have succeeded in treating AD in mice by using ultrasonic therapy to remove toxic amyloid beta protein build ups. It is a non-drug/invasive-surgery therapy which makes it more likely that the vunerable can survive a potential treatment. &lt;/p&gt;
+
+&lt;p&gt;Secondly that there is &lt;a href=&quot;http://www.neurology.org/content/62/11/1984&quot;&gt;scientific evidence&lt;/a&gt; to establish  that amyloid beta protein build ups are one of the links in the chain of causes in AD. A named enemy is one humans are best equiped to fight.&lt;/p&gt;
+
+&lt;p&gt;Lastly that AD is the cause of 50-60% of all dementia cases. This means that there is a good chance there will be a treatment for half of all dementia cases in the near future. Science bitches.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Mar 2015 00:00:00 +1100</pubDate>
+        <link>http://www.hlin.co/blog/Alzheimers/</link>
+        <guid isPermaLink="true">http://www.hlin.co/blog/Alzheimers/</guid>
+      </item>
+    
+      <item>
+        <title>Illustrations by Gediminas Pranckevičius</title>
+        <description>&lt;p&gt;These &lt;a href=&quot;http://www.gedomenas.com/portfolio/illustration-2/&quot;&gt;illustrations&lt;/a&gt; from Gediminas Pranckevičius remind me of the personal myths &amp;amp; &lt;a href=&quot;http://www.amazon.com/Memories-Dreams-Reflections-C-G-Jung/dp/0679723951/ref=asap_bc?ie=UTF8&quot;&gt;reflections&lt;/a&gt; of Carl Jung. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.gedomenas.com/wp-content/uploads/2014/12/c2209c763af1d407eb77afa50593ad53.jpg&quot; alt=&quot;I1&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;A combination of the surreal and a sense of shared archetypes makes a compelling work of art.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Mar 2015 00:00:00 +1100</pubDate>
+        <link>http://www.hlin.co/blog/Illustrations_G-Pranckevicius/</link>
+        <guid isPermaLink="true">http://www.hlin.co/blog/Illustrations_G-Pranckevicius/</guid>
+      </item>
+    
+      <item>
+        <title>Guide To Autodidactism</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://www.twitter.com/jackkinsella&quot;&gt;@JackKinsella&lt;/a&gt; in &lt;a href=&quot;http://www.oxbridgenotes.com/articles/autodidactism/oxbridge_notes_guide_to_autodidactism&quot;&gt;Guide To Autodidactism&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Learning &lt;em&gt;learning&lt;/em&gt; strategies should be treated as equally fundamental in our schools, yet it isn’t. My schooling reality starkly differed, in that the powers that were deemed it preferable to dedicate an hour a day during our fifth year at primary school learning the names of all the rivers, lakes and mountains in Ireland, names I have long forgotten. Wouldn’t it have been nice if they had taught us the more portable and relevant skill of how to memorise any arbitrary long list of items?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;These notes give me hope for adopting better habits to assist in memory.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Mar 2015 00:00:00 +1100</pubDate>
+        <link>http://www.hlin.co/blog/Autodidactism_Jack-Kinsella/</link>
+        <guid isPermaLink="true">http://www.hlin.co/blog/Autodidactism_Jack-Kinsella/</guid>
+      </item>
+    
+  </channel>
+</rss>
